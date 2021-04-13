@@ -1,4 +1,23 @@
 .color-nav{
     background-color: rgb(139, 139, 139);
-    color:black;
+    color:rgb(0, 0, 0);
+}
+.card {
+    justify-content: center;
+    position: relative;
+    /* padding-left: 35%; */
+    justify-items: center;
+}
+.carousel-item {
+    justify-content: center;
+    position: relative;
+    /* padding-left: 35%; */
+    justify-items: center;
+  }
+
+.tam{
+    min-height: 100px;
+    min-width: 100px;
+    max-width: 300px;
+    max-height: 300px;
 }
