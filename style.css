@@ -53,7 +53,17 @@ footer{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);}
-.whit{
+    transform: translate(-50%, -50%);
+}
+.centered-2 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.white{
     color: rgb(255, 255, 255);
+}
+.bnt-bot{
+    top: 50%;
 }
