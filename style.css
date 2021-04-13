@@ -49,3 +49,11 @@ footer{
 .card:hover {
     border: 1px solid #777;
   }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+.whit{
+    color: rgb(255, 255, 255);
+}
