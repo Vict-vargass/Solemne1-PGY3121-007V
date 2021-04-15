@@ -15,17 +15,20 @@
     justify-items: center;
   }
 
-.tam{
-    min-height: 100px;
-    min-width: 100px;
-    max-width: 300px;
-    max-height: 300px;
-}
 
-.bck-head{
+
+.bck-color{
     width: 120px; 
     background-color: rgba(0,0,255,.1)
 }
+.bck-color-2{
+    background-color: rgba(180, 180, 180, 0.644);
+}
+.bck-color-2 a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
 .center{
     text-align: center;
 }
