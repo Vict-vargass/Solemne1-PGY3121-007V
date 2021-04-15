@@ -15,7 +15,14 @@
     justify-items: center;
   }
 
-
+.tam-log-h{
+    width: 50px;
+    height: 50px;
+}
+.tam-log-tl{
+    width: 45px;
+    height: 45px;
+}
 
 .bck-color{
     width: 120px; 
